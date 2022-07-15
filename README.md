@@ -11,3 +11,4 @@
 * [Variable name](variable_name/variable_name.md)
 * [First duplicate](first_duplicate/first_duplicate.md)
 * [First not repeating character](first_not_repeating_character/first_not_repeating_character.md)
+* [Alphabetic shift](alphabetic_shift/alphabetic_shift.md)
