@@ -1,6 +1,6 @@
 # CodeSignal Challenges
 
-[CodeSignal](https://codesignal.com/) is popular website hosting coding challenges aimed at helping people familiarize themselves with coding-interviews. Many challenges are from Google, Amazon or other FAANG companies. Here is a list containing some of the many challenges I have solved. As of now, it only holds solutions written in Rust, but in my [CodeSignal account](https://app.codesignal.com/profile/costas_v) you can find solutions written in other programming languages too.
+[CodeSignal](https://codesignal.com/) is popular website hosting coding challenges aimed at helping people familiarize themselves with coding-interviews. Many challenges are from Google, Amazon or other FAANG companies. Here is a list containing some of the many challenges I have solved. As of now, most solutions are written in Rust, but in my [CodeSignal account](https://app.codesignal.com/profile/costas_v) you can find solutions written in other programming languages too.
 
 ## Challenges
 
@@ -13,3 +13,4 @@
 * [First not repeating character](first_not_repeating_character/first_not_repeating_character.md)
 * [Alphabetic shift](alphabetic_shift/alphabetic_shift.md)
 * [Chess board cell color](chess_board_cell_color/chess_board_cell_color.md)
+* [Circle of numbers](circle_of_numbers/circle_of_numbers.md)
