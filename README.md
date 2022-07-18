@@ -12,3 +12,4 @@
 * [First duplicate](first_duplicate/first_duplicate.md)
 * [First not repeating character](first_not_repeating_character/first_not_repeating_character.md)
 * [Alphabetic shift](alphabetic_shift/alphabetic_shift.md)
+* [Chess board cell color](chess_board_cell_color/chess_board_cell_color.md)

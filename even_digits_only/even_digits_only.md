@@ -2,6 +2,8 @@
 
 # Even Digits Only
 
+https://app.codesignal.com/arcade/intro/level-6/6cmcmszJQr6GQzRwW
+
 ## Challenge description
 
 Check if all digits of the given integer are even.

@@ -2,6 +2,8 @@
 
 # Array Replace
 
+https://app.codesignal.com/arcade/intro/level-6/mCkmbxdMsMTjBc3Bm
+
 ## Challenge description
 
 Given an array of integers, replace all the occurrences of `elemToReplace` with `substitutionElem`.

@@ -1,7 +1,8 @@
 [Back](../README.md)
 
-
 # Alphabetic Shift
+
+https://app.codesignal.com/arcade/intro/level-6/PWLT8GBrv9xXy4Dui
 
 ## Challenge description
 
@@ -9,7 +10,7 @@ Given a string, your task is to replace each of its characters by the next one i
 
 ## Example
 
-For `inputString = "crazy"`, the output should be `solution(inputString) = "dsbaz".`
+For `inputString = "crazy"`, the output should be `solution(inputString) = "dsbaz"`.
 
 ## Solution
 
