@@ -14,3 +14,4 @@
 * [Alphabetic shift](alphabetic_shift/alphabetic_shift.md)
 * [Chess board cell color](chess_board_cell_color/chess_board_cell_color.md)
 * [Circle of numbers](circle_of_numbers/circle_of_numbers.md)
+* [Deposit profit](deposit_profit/deposit_profit.md)
