@@ -4,6 +4,8 @@
 
 ## Challenges
 
+### Intro
+
 * [Box blur](box_blur/box_blur.md)
 * [Minesweeper](minesweeper/minesweeper.md)
 * [Array replace](array_replace/array_replace.md)
@@ -15,3 +17,8 @@
 * [Chess board cell color](chess_board_cell_color/chess_board_cell_color.md)
 * [Circle of numbers](circle_of_numbers/circle_of_numbers.md)
 * [Deposit profit](deposit_profit/deposit_profit.md)
+
+### Databases
+
+* [Project list](project_list/project_list.md)
+* [Countries selection](countries_selection/countries_selection.md)
