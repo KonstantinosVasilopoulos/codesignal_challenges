@@ -17,6 +17,7 @@
 * [Chess board cell color](chess_board_cell_color/chess_board_cell_color.md)
 * [Circle of numbers](circle_of_numbers/circle_of_numbers.md)
 * [Deposit profit](deposit_profit/deposit_profit.md)
+* [Absolute values sum minimization](absolute_values_sum_minimization/absolute_values_sum_minimization.md)
 
 ### Databases
 
