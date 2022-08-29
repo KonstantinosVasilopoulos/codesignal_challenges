@@ -18,6 +18,7 @@
 * [Circle of numbers](circle_of_numbers/circle_of_numbers.md)
 * [Deposit profit](deposit_profit/deposit_profit.md)
 * [Absolute values sum minimization](absolute_values_sum_minimization/absolute_values_sum_minimization.md)
+* [Strings rearrangement](strings_rearrangement/strings_rearrangement.md)
 * [Extract each kth](extract_each_kth/extract_each_kth.md)
 * [First digit](first_digit/first_digit.md)
 

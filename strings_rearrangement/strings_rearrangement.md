@@ -32,4 +32,4 @@ It's possible to arrange these strings in a way that each consecutive pair of st
 
 ## Solution
 
-[Solved with Rust](strings_rearrangement.rs)
+[Solved with Rust](src/main.rs)
