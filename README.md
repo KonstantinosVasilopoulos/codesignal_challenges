@@ -26,3 +26,7 @@
 
 * [Project list](project_list/project_list.md)
 * [Countries selection](countries_selection/countries_selection.md)
+
+### Graphs
+
+* [New road system](new_road_system/new_road_system.md)
