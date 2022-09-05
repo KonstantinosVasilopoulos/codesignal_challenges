@@ -21,6 +21,7 @@
 * [Strings rearrangement](strings_rearrangement/strings_rearrangement.md)
 * [Extract each kth](extract_each_kth/extract_each_kth.md)
 * [First digit](first_digit/first_digit.md)
+* [Different symbols naive](different_symbols_naive/different_symbols_naive.md)
 
 ### Databases
 
