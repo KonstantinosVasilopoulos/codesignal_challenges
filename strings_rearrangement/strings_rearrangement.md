@@ -32,4 +32,6 @@ It's possible to arrange these strings in a way that each consecutive pair of st
 
 ## Solution
 
+This particular challenge was solved by implementing [Heap's algorithm](https://en.wikipedia.org/wiki/Heap%27s_algorithm) to create all possible permutations of the given array.
+
 [Solved with Rust](src/main.rs)

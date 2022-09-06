@@ -4,6 +4,8 @@
 
 ## Challenges
 
+The harder the challenge the more *exclamation marks* it has. A challenge's difficulty is purely subjective.
+
 ### Intro
 
 * [Box blur](box_blur/box_blur.md)
@@ -18,7 +20,7 @@
 * [Circle of numbers](circle_of_numbers/circle_of_numbers.md)
 * [Deposit profit](deposit_profit/deposit_profit.md)
 * [Absolute values sum minimization](absolute_values_sum_minimization/absolute_values_sum_minimization.md)
-* [Strings rearrangement](strings_rearrangement/strings_rearrangement.md)
+* [Strings rearrangement](strings_rearrangement/strings_rearrangement.md) **!!!**
 * [Extract each kth](extract_each_kth/extract_each_kth.md)
 * [First digit](first_digit/first_digit.md)
 * [Different symbols naive](different_symbols_naive/different_symbols_naive.md)
@@ -31,3 +33,4 @@
 ### Graphs
 
 * [New road system](new_road_system/new_road_system.md)
+* [Roads building](roads_building/roads_building.md) **!**
