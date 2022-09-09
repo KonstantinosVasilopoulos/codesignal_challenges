@@ -4,33 +4,39 @@
 
 ## Challenges
 
-The harder the challenge the more *exclamation marks* it has. A challenge's difficulty is purely subjective.
+The harder the challenge, the more *exclamation marks* it has. A challenge's difficulty is purely subjective.
 
 ### Intro
 
-* [Box blur](box_blur/box_blur.md)
-* [Minesweeper](minesweeper/minesweeper.md)
-* [Array replace](array_replace/array_replace.md)
-* [Even digits only](even_digits_only/even_digits_only.md)
-* [Variable name](variable_name/variable_name.md)
-* [First duplicate](first_duplicate/first_duplicate.md)
-* [First not repeating character](first_not_repeating_character/first_not_repeating_character.md)
-* [Alphabetic shift](alphabetic_shift/alphabetic_shift.md)
-* [Chess board cell color](chess_board_cell_color/chess_board_cell_color.md)
-* [Circle of numbers](circle_of_numbers/circle_of_numbers.md)
-* [Deposit profit](deposit_profit/deposit_profit.md)
-* [Absolute values sum minimization](absolute_values_sum_minimization/absolute_values_sum_minimization.md)
-* [Strings rearrangement](strings_rearrangement/strings_rearrangement.md) **!!!**
-* [Extract each kth](extract_each_kth/extract_each_kth.md)
-* [First digit](first_digit/first_digit.md)
-* [Different symbols naive](different_symbols_naive/different_symbols_naive.md)
+* [Box blur](./box_blur/box_blur.md)
+* [Minesweeper](./minesweeper/minesweeper.md)
+* [Array replace](./array_replace/array_replace.md)
+* [Even digits only](./even_digits_only/even_digits_only.md)
+* [Variable name](./variable_name/variable_name.md)
+* [First duplicate](./first_duplicate/first_duplicate.md)
+* [First not repeating character](./first_not_repeating_character/first_not_repeating_character.md)
+* [Alphabetic shift](./alphabetic_shift/alphabetic_shift.md)
+* [Chess board cell color](./chess_board_cell_color/chess_board_cell_color.md)
+* [Circle of numbers](./circle_of_numbers/circle_of_numbers.md)
+* [Deposit profit](./deposit_profit/deposit_profit.md)
+* [Absolute values sum minimization](./absolute_values_sum_minimization/absolute_values_sum_minimization.md)
+* [Strings rearrangement](./strings_rearrangement/strings_rearrangement.md) **!!!**
+* [Extract each kth](./extract_each_kth/extract_each_kth.md)
+* [First digit](./first_digit/first_digit.md)
+* [Different symbols naive](./different_symbols_naive/different_symbols_naive.md)
+* [Array max consecutive sum](./array_max_consecutive_sum/array_max_consecutive_sum.md)
+* [Growing plant](./growing_plant/growing_plant.md)
 
 ### Databases
 
-* [Project list](project_list/project_list.md)
-* [Countries selection](countries_selection/countries_selection.md)
+* [Project list](./project_list/project_list.md)
+* [Countries selection](./countries_selection/countries_selection.md)
 
 ### Graphs
 
-* [New road system](new_road_system/new_road_system.md)
-* [Roads building](roads_building/roads_building.md) **!**
+* [New road system](./new_road_system/new_road_system.md)
+* [Roads building](./roads_building/roads_building.md) **!**
+
+### Arrays
+
+* [Rotate image](./rotate_image/rotate_image.md)
