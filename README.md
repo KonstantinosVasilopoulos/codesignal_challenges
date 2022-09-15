@@ -28,6 +28,10 @@ The harder the challenge, the more *exclamation marks* it has. A challenge's dif
 * [Growing plant](./growing_plant/growing_plant.md)
 * [Knapsack light](./knapsack_light/knapsack_light.md)
 
+### Core
+
+* [Late ride](./late_ride/late_ride.md)
+
 ### Databases
 
 * [Project list](./project_list/project_list.md)
