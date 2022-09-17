@@ -27,6 +27,7 @@ The harder the challenge, the more *exclamation marks* it has. A challenge's dif
 * [Array max consecutive sum](./array_max_consecutive_sum/array_max_consecutive_sum.md)
 * [Growing plant](./growing_plant/growing_plant.md)
 * [Knapsack light](./knapsack_light/knapsack_light.md)
+* [Longest digits prefix](./longest_digits_prefix/longest_digits_prefix.md)
 
 ### Core
 
