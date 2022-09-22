@@ -47,3 +47,4 @@ The harder the challenge, the more *exclamation marks* it has. A challenge's dif
 
 * [Rotate image](./rotate_image/rotate_image.md)
 * [Sudoku 2](./sudoku2/sudoku2.md)
+* [Is crypt solution](./is_crypt_solution/is_crypt_solution.md)
