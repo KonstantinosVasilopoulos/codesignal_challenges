@@ -28,6 +28,8 @@ The harder the challenge, the more *exclamation marks* it has. A challenge's dif
 * [Growing plant](./growing_plant/growing_plant.md)
 * [Knapsack light](./knapsack_light/knapsack_light.md)
 * [Longest digits prefix](./longest_digits_prefix/longest_digits_prefix.md)
+* [Digit degree](./digit_degree/digit_degree.md)
+* [Bishop and pawn](./bishop_and_pawn/bishop_and_pawn.md)
 
 ### Core
 
@@ -37,6 +39,8 @@ The harder the challenge, the more *exclamation marks* it has. A challenge's dif
 
 * [Project list](./project_list/project_list.md)
 * [Countries selection](./countries_selection/countries_selection.md)
+* [Contest leaderboard](./contest_leaderboard/contest_leaderboard.md)
+* [Grade distribution](./grade_distribution/grade_distribution.md)
 
 ### Graphs
 
