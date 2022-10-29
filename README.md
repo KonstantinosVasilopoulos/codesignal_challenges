@@ -41,6 +41,7 @@ The harder the challenge, the more *exclamation marks* it has. A challenge's dif
 * [Countries selection](./countries_selection/countries_selection.md)
 * [Contest leaderboard](./contest_leaderboard/contest_leaderboard.md)
 * [Grade distribution](./grade_distribution/grade_distribution.md)
+* [Suspects investigation](./suspects_investigations/suspects_investigations.md)
 
 ### Graphs
 
