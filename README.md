@@ -43,6 +43,7 @@ The harder the challenge, the more *exclamation marks* it has. A challenge's dif
 * [Grade distribution](./grade_distribution/grade_distribution.md)
 * [Suspects investigation](./suspects_investigations/suspects_investigations.md)
 * [Security breach](./security_breach/security_breach.md)
+* [Market report](./market_report/market_report.md)
 
 ### Graphs
 
