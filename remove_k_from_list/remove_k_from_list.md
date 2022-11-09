@@ -18,4 +18,4 @@ Given a singly linked list of integers `l` and an integer `k`, remove all elemen
 
 ## Solution
 
-[Solved with Rust](src/main.rs)
+[Solved with Java](./Solution.java)
