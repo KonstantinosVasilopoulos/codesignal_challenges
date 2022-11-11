@@ -59,3 +59,4 @@ The harder the challenge, the more *exclamation marks* it has. A challenge's dif
 ### Linked lists
 
 * [Remove k from list](./remove_k_from_list/remove_k_from_list.md)
+* [Is list palindrome](./is_list_palindrome/is_list_palindrome.md)
