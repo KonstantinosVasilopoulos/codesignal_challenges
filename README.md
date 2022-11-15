@@ -30,6 +30,7 @@ The harder the challenge, the more *exclamation marks* it has. A challenge's dif
 * [Longest digits prefix](./longest_digits_prefix/longest_digits_prefix.md)
 * [Digit degree](./digit_degree/digit_degree.md)
 * [Bishop and pawn](./bishop_and_pawn/bishop_and_pawn.md)
+* [Is beautiful string](./is_beautiful_string/is_beautiful_string.md)
 
 ### Core
 
