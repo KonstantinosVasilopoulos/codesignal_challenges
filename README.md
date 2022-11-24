@@ -33,6 +33,7 @@ The harder the challenge, the more *exclamation marks* it has. A challenge's dif
 * [Is beautiful string](./is_beautiful_string/is_beautiful_string.md)
 * [Build palindrome](./build_palindrome/build_palindrome.md)
 * [Elections winners](./elections_winners/elections_winners.md)
+* [Is MAC48 address](./is_mac48_address/is_mac48_address.md)
 
 ### Core
 
